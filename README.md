@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @denizterzioglu
-- 👀 I’m interested in data science/management and it's applications in the aviation industry!
-- 🌱 I’m currently learning Java, JavaScript, Python and R...
+- 👀 I’m interested in data engineering, cybersecurity, UI & UX design and their applications in the aviation industry!
 - 💞️ I’m looking to collaborate on nothing particular at the moment.
 - 📫 How to reach me deniz.terzioglu@airbus.com
 
